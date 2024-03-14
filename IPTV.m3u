@@ -36,10 +36,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-id="A18" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视高清",CCTV-17 农业农村
 http://[2409:8087:7001:20:3::2]/dbiptv.sn.chinamobile.com/PLTV/4/224/3221226198/index.m3u8
-#EXTINF:-1 tvg-id="A19" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视高清",CCTV-4K 超高清
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png" group-title="央视高清",CCTV-8K 超高清
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="A21" tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png" group-title="央视高清",CETV-1 综合教育
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A22" tvg-name="CETV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="央视高清",CETV-2 空中课堂
