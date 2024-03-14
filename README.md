@@ -19,12 +19,12 @@
 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 
 <p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Meroser/IPTV">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/Meroser/IPTV">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Meroser/IPTV">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Meroser/IPTV">
-<img alt="GitHub" src="https://img.shields.io/github/license/Meroser/IPTV">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hiyoi/IPTV">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/hiyoi/IPTV">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/hiyoi/IPTV">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/hiyoi/IPTV">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hiyoi/IPTV">
+<img alt="GitHub" src="https://img.shields.io/github/license/hiyoi/IPTV">
 </p>
 
 ## 🏄‍♀️源地址
@@ -32,8 +32,8 @@
 
 |     📦 名称      |                         🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
 | :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.02.27 |
-|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt) |   239   | 🌕日常更新 | 2024.02.27 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/hiyoi/IPTV/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.02.27 |
+
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
@@ -80,11 +80,6 @@
 
 📲**Android：**[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`]
 
-## 🎦频道展示
-展示内容为在小米电视+TiviMate 2.8.0示意
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img1.jpg"></p>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img2.jpg"></p>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img3.jpg"></p>
 
 ## 🆕更新
 - 2024.02.27 新增重温经典🎈🎈/新增上海/RT频道 PS：河南地方台测试有问题移除
@@ -92,8 +87,6 @@
 - 2024.02.01 移除失效上海台
 - 2024.01.30 新增NewTV系列15个频道、新增湖北地方台、新增武术世界、天元围棋等特色台
 - 2024.01.26 修复因上海移动而影响的频道，详情版EPG已正式投入使用
-
-<img align="right" width="300" height="300" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/doraemon.jpg">
 
 ## 💡致谢：
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
@@ -105,13 +98,6 @@
 - GitHub及互联网其他资源[`特别感谢`]
 
 <u>说明：本仓库部分内容引用或参考以上内容，在此表示感谢！！！🎈</u>
-
-## 🙋‍♂️赞赏及交流群：
-<p>
-<img width="200" height="200" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/QQqun1.jpg">
-<img width="200" height="200" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/QQqun2.jpg">
-<img width="200" height="200" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Appreciation.jpg">
-</p>
 
 
 
