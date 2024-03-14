@@ -32,7 +32,7 @@
 
 |     📦 名称      |                         🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
 | :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/hiyoi/IPTV/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.02.27 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/hiyoi/IPTV/main/IPTV.m3u) |    149   | 🌕日常更新 | 2024.03.14 |
 
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
@@ -82,11 +82,7 @@
 
 
 ## 🆕更新
-- 2024.02.27 新增重温经典🎈🎈/新增上海/RT频道 PS：河南地方台测试有问题移除
-- 2024.02.18 新增山西、黑龙江地方台
-- 2024.02.01 移除失效上海台
-- 2024.01.30 新增NewTV系列15个频道、新增湖北地方台、新增武术世界、天元围棋等特色台
-- 2024.01.26 修复因上海移动而影响的频道，详情版EPG已正式投入使用
+- 2024.03.14 修复失效频道
 
 ## 💡致谢：
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
