@@ -89,9 +89,9 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="TY02" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="体育",CCTV-5 - 线路2
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="TY03" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="体育",CCTV-5+
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="TY03" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="体育",CCTV-5+ - 线路2
-http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv5hd8m/8000000/mnf.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="TY04" tvg-name="咪咕体育" group-title="体育",咪咕体育 - 线路1
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 
